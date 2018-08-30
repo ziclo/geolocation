@@ -37,9 +37,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1535619928794,
-            "changeTime": 1535619928794,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
+            "modifiedTime": 1535620716230,
+            "changeTime": 1535620716230,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
@@ -48,13 +48,12 @@
             "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1535550326530,
-            "changeTime": 1535550326530,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "modifiedTime": 1535620196369,
+            "changeTime": 1535620196369,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -63,13 +62,12 @@
             "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1535550707051,
-            "changeTime": 1535550707051,
-            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "modifiedTime": 1535557473562,
+            "changeTime": 1535557473562,
+            "contentHash": "4422c14d4311811675b6d1e4072645d235af4fbd",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -218,40 +216,261 @@
     [
         "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1535619928821,
             "changeTime": 1535619928821,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 308,
             "modifiedTime": 1535620105537,
             "changeTime": 1535620105537,
-            "contentHash": "99f4b8e1a655dd1ba605eb50a36bc828ee43648f"
+            "contentHash": "99f4b8e1a655dd1ba605eb50a36bc828ee43648f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1535619928825,
             "changeTime": 1535619928825,
-            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6"
+            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1535620196386,
+            "changeTime": 1535620196386,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1535620196386,
+            "changeTime": 1535620196386,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1535620227003,
+            "changeTime": 1535620227003,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1535620196376,
+            "changeTime": 1535620196376,
+            "contentHash": "83ff4d0b87ed5f90f60645958ed6ed7348c82a24",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "size": 113,
+            "modifiedTime": 1535620298367,
+            "changeTime": 1535620298367,
+            "contentHash": "d37585a5497942f4652a198588747f2d6be784e7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1535620196387,
+            "changeTime": 1535620196387,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1535620196384,
+            "changeTime": 1535620196384,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1535620196378,
+            "changeTime": 1535620196378,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1535620196379,
+            "changeTime": 1535620196379,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1535620196383,
+            "changeTime": 1535620196383,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\tabs\\AccountLocator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\tabs\\AccountLocator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 266,
+            "modifiedTime": 1535620716223,
+            "changeTime": 1535620716223,
+            "contentHash": "1bfaeb286290ee06e63c10f05adf982d3e3a13f5"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17964,
+            "modifiedTime": 1535620716241,
+            "changeTime": 1535620716241,
+            "contentHash": "271978e74cacbdec99664b4eb58d2fe0c70e0d6d"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4564,
+            "modifiedTime": 1535620716245,
+            "changeTime": 1535620716245,
+            "contentHash": "1e0a15b915295000b46c673d832a7d51189a13d6"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4900,
+            "modifiedTime": 1535620716250,
+            "changeTime": 1535620716250,
+            "contentHash": "39377cb0b4854509f6d7ea5d33271aafebc10c8f"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4560,
+            "modifiedTime": 1535620716254,
+            "changeTime": 1535620716254,
+            "contentHash": "756bdedcbd5ea8970352e5f5b46bba0257e7a483"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535620716221,
+            "changeTime": 1535620716221,
+            "contentHash": "7aadb0b15adff32ef7b6ecfc866b2afeb2435e1b"
+        }
+    ],
+    [
+        "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\LTOR\\Downloads\\Perso\\Git\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535620716253,
+            "changeTime": 1535620716253,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
